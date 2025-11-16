@@ -1,2 +1,4 @@
 # Tableaucasestudies
 This repository contains a collection of data analysis and visualization case studies created using Tableau. Each project demonstrates the use of dashboards, exploratory visualizations, calculated fields, filters, and data insights to solve real-world analytical questions.
+Case study 1 explores the Titanic passenger dataset using Tableau, focusing on uncovering patterns in survival, demographics, and travel classes. Through a series of interactive visualizations, the dashboard highlights how factors such as gender, passenger class, fare, age, and embarkation port influenced survival outcomes.
+Case study 2 explores a coffee retail dataset to uncover insights about sales, profit, product performance, and market trends. Using visual analytics techniques such as heatmaps, boxplots, scatter plots, treemaps, and bar charts, the study answers key business questions
